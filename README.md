@@ -1,4 +1,8 @@
-### Hi there 👋
+### About me:
+
+Graduate student in the BEATLab, Department for Psychology, Neuroscience & Behaviour at McMaster University.
+I'm currently researching the social impact of music performances, working with surveys and physiological measurements. 
+I'm challenging myself to acquire new skills throughout grad school. At the moment, I'm exploring Inkscape, LaTeX, JavaScript, data analysis in Python, data management following BIDS, ...
 
 <!--
 **J0shisIsland/J0shisIsland** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
